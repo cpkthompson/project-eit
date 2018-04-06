@@ -1,1 +1,1 @@
-In class project explaining angularjs projects.
+In class project explaining angularjs concepts.
